@@ -15,7 +15,7 @@
 
 .portfolio .portfolio-item.dz{
     background-color: #10114d;
-    height: 100%;
+    height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -37,7 +37,7 @@
 .portfolio .portfolio-item.singlePage{
     
     background-color: #c2a2ec;
-    height: 100%;
+    height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
